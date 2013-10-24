@@ -832,7 +832,7 @@ th.hidden-lg,td.hidden-lg{display:table-cell !important}
 @media (min-width:1200px){.hidden-lg{display:none !important}tr.hidden-lg{display:none !important} th.hidden-lg,td.hidden-lg{display:none !important}}
 .visible-print{display:none !important}tr.visible-print{display:none !important}
 th.visible-print,td.visible-print{display:none !important}
-@media print{.visible-print{display:block !important}tr.visible-print{display:table-row !important} th.visible-print,td.visible-print{display:table-cell !important} .hidden-print{display:none !important}tr.hidden-print{display:none !important} th.hidden-print,td.hidden-print{display:none !important}}html{background:url('http://azik.me/android/bg.jpg')}
+@media print{.visible-print{display:block !important}tr.visible-print{display:table-row !important} th.visible-print,td.visible-print{display:table-cell !important} .hidden-print{display:none !important}tr.hidden-print{display:none !important} th.hidden-print,td.hidden-print{display:none !important}}html{background:url('images/bg.jpg')}
 body{background:#fff;padding:15px;font-size:12px;box-shadow:0 0 250px #444;padding:25px;width:600px;max-width:100%;margin:0 auto}
 img:nth-child(1){width:600px;max-width:100%;margin-bottom:5px;border:solid 3px #fff;box-shadow:0 0 1px #444}
 img:nth-child(2){width:250px;max-width:100%;float:right;margin:5px 0 10px 10px;border:solid 3px #fff;box-shadow:0 0 1px #444}
