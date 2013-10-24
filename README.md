@@ -1,0 +1,4 @@
+SamarkandApp
+============
+
+Samarkand Android App
